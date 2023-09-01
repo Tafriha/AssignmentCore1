@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">লুডো</string>
+    <string name="textView">0</string>
+    <string name="add">যোগ</string>
+    <string name="substract">বিয়োগ</string>
+    <string name="roll">রোল</string>
+    <string name="reset">পুনরায়</string>
+
+</resources>
